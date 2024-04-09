@@ -1,0 +1,32 @@
+[
+  {
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    "fileSize": ".9mb",
+    "close": true,
+    "tag": {
+      "isOpen": false,
+      "tagTitle": "Download Now",
+      "tagColor": "green"
+    }
+  },
+  {
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    "fileSize": ".4mb",
+    "close": true,
+    "tag": {
+      "isOpen": true,
+      "tagTitle": "Download Now",
+      "tagColor": "blue"
+    }
+  },
+  {
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    "fileSize": ".7mb",
+    "close": false,
+    "tag": {
+      "isOpen": true,
+      "tagTitle": "Upload",
+      "tagColor": "green"
+    }
+  }
+]
